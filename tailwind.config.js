@@ -7,6 +7,9 @@ export default {
         primary: "#FB8168",
         secondary: "#FCAA6A",
       },
+      backgroundSize: {
+        "bg-cover": "cover",
+      },
     },
   },
   plugins: [],
